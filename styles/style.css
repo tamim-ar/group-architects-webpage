@@ -102,9 +102,9 @@ header {
     gap: 1%;
 }
 
-.quick-img {}
+/* .quick-img {} */
 
-.quick-title {}
+/* .quick-title {} */
 
 .quick-caption {
     font-weight: 400;
@@ -140,7 +140,7 @@ header {
     margin-bottom: 5%;
 }
 
-.facts-img {}
+/* .facts-img {} */
 
 .facts-items {
     border: 1px solid #FF900E;
